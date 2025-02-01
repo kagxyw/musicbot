@@ -1,4 +1,4 @@
-##Welcome to 你的三月七！
+## Welcome to 你的三月七！
 
 A feature-rich Discord music bot with multilingual support (English & Chinese) and high-quality audio playback.
 
